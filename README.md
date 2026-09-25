@@ -111,6 +111,20 @@ Logistic Regression was selected as the final baseline model because it provided
 
 Model selection was based on multiple evaluation metrics rather than accuracy alone.
 
+## Model Evaluation Visualizations
+
+### Confusion Matrix
+
+![Confusion Matrix](reports/figures/confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](reports/figures/roc_curve.png)
+
+### Precision-Recall Curve
+
+![Precision-Recall Curve](reports/figures/precision_recall_curve.png)
+
 ## Threshold Analysis
 
 Because identifying churners is important for retention, multiple classification thresholds were evaluated.
